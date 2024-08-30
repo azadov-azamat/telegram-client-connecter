@@ -1,0 +1,17 @@
+{
+  "name": "telegram-client-connecter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Azamat Azadov",
+    "email": "azamatazadov112@gmail.com",
+    "url": "https://portfolio-azamat.vercel.app/"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ioredis": "^5.4.1",
+    "telegram": "^2.24.11",
+    "time-constants": "^1.0.3"
+  }
+}
